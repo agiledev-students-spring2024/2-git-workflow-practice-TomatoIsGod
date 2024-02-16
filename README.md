@@ -1,2 +1,6 @@
 # Git Practice
 A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+
+# Article: [Career Crush: What Is It Like to Be a Software Engineer?](https://hbr.org/2021/07/career-crush-what-is-it-like-to-be-a-software-engineer)
+
+The article features an interview with Lindsey Redd, a software engineer who has worked for top tech companies like Slack, Lyft, and Stripe. Redd discusses her journey into coding, including her transition from wanting to pursue medicine or biomechanical engineering to discovering her passion for computer science during college. She describes her day-to-day responsibilities as a software engineer, highlighting tasks such as coding, testing, deploying, and monitoring code, as well as participating in meetings and pair programming. Redd also shares insights into landing internships at Lyft and Slack, emphasizing the support she received from organizations like Code2040 and the rigorous interview process typical in the tech industry, which often involves studying algorithms and data structures extensively. She suggests resources like "Cracking the Coding Interview" for preparation and underscores the importance of practicing coding questions before interviews.
